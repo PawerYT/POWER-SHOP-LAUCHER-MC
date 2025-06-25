@@ -1,0 +1,15 @@
+{
+  "version_pack": "2.0",
+  "files": [
+    {
+      "name": "journeymap-1.20.1-5.9.18-forge.jar",
+      "url": "https://tuservidor.com/minecraft/mods/journeymap-1.20.1-5.9.18-forge.jar",
+      "hash": "f6e5d4c3b2a1a0987f6e5d4c3b2a1a098..."
+    },
+    {
+      "name": "jei-1.20.1-forge-15.2.0.27.jar",
+      "url": "https://tuservidor.com/minecraft/mods/jei-1.20.1-forge-15.2.0.27.jar",
+      "hash": "1234567890abcdef1234567890abcdef..."
+    }
+  ]
+}
